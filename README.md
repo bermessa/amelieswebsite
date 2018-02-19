@@ -1,5 +1,5 @@
 ### Amelie's French Bakery
-# Final group project 
+##### Final group project 
 
 This project is a remake of Amelie's existing page. Compare the two! <br>
 [Before](ameliesfrenchbakery.com) | [After](https://lit-spire-91818.herokuapp.com/) <br><br>
