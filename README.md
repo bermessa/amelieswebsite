@@ -1,8 +1,7 @@
 ## Amelie's French Bakery
-#### Final group project 
 
-This project is a remake of Amelie's existing page. Compare the two! <br>
-[Before](ameliesfrenchbakery.com) | [After](https://lit-spire-91818.herokuapp.com/) <br><br>
+<p align="center">This final group project is a remake of Amelie's existing page. Compare the two! <br>
+[Before](ameliesfrenchbakery.com) | [After](https://lit-spire-91818.herokuapp.com/) </p><br><br>
 
 **Status:** <br>
 * Running via web <br>
@@ -12,7 +11,7 @@ This project is a remake of Amelie's existing page. Compare the two! <br>
 * User Authentication session stored with JSON web token <br>
 * Manager can update database <br>
 * Menus dynamically created from database <br>
-* Seemlessly send emails <br>
+* Seemlessly send emails <br><br>
 
 **Technology:** <br>
 * Full-Stack M.E.R.N Single Page Application <br>
