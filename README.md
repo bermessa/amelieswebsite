@@ -6,7 +6,7 @@ Compare the two! <br>
 
 **Status:** <br>
 * Running via web <br>
-* Bug in routes with mobile view <br><br>
+* Bug in mobile view with react routes deployment <br><br>
 
 **Features:** <br>
 * User Authentication session stored with JSON web token <br>
