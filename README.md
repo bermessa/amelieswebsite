@@ -28,6 +28,7 @@ Compare the two! <br>
 
 **MY CONTRIBUTION:** <br>
 Front End: <br>
+ * UI team lead - final decisions on style and layout
  * React components <br>
  * React router <br>
  * CSS and Reactstrap styling <br>
