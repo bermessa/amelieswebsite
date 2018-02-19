@@ -2,7 +2,7 @@
 
 This final group project is a remake of Amelie's existing page. <br>
 Compare the two! <br>
-[Before](ameliesfrenchbakery.com) | [After](https://lit-spire-91818.herokuapp.com/) <br><br>
+[Before](http://www.ameliesfrenchbakery.com/) | [After](https://lit-spire-91818.herokuapp.com/) <br><br>
 
 **Status:** <br>
 * Running via web <br>
